@@ -1,0 +1,18 @@
+h1{ 
+    color: orange; 
+}
+.mainWrapper{ 
+    margin: 25px; 
+}
+a {
+    color: #007bff; /* Set the color of the text */
+    text-decoration: none; /* Remove underline by default */
+    display: inline-block; /* Display as block elements */
+    padding: 10px 20px; /* Add padding to create space inside the box */
+    text-decoration: none; /* Remove underline by default */
+    color: #fff; /* Text color */
+    background-color: #007bff; /* Background color */
+    border: 1px solid #007bff; /* Border */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s, border-color 0.3s;
+}

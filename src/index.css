@@ -1,0 +1,24 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+  background-image: url('https://https://wallpaperaccess.com/full/2942781.jpg');
+  /* Optionally, you can set additional properties */
+  background-repeat: no-repeat;
+  background-size: cover; /* Adjust to cover the entire background */
+}
+
+a {
+  color: #007bff; /* Set the color of the text */
+  text-decoration: none; /* Remove underline by default */
+  display: inline-block; /* Display as block elements */
+  padding: 10px 20px; /* Add padding to create space inside the box */
+  text-decoration: none; /* Remove underline by default */
+  color: #fff; /* Text color */
+  background-color: #007bff; /* Background color */
+  border: 1px solid #007bff; /* Border */
+  border-radius: 5px; /* Rounded corners */
+  transition: background-color 0.3s, border-color 0.3s;
+}
